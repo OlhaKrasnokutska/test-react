@@ -1,9 +1,16 @@
 import React from "react";
+import Header from "./Header";
+import Notification from "./Notification";
+import Projects from "./Projects";
+import Footer from "./Footer";
 
 function App(){
     return(
         <div>
-        <h1>Hello</h1>
+        <Header />
+        <Notification />
+        <Projects />
+        <Footer />
         </div>
     );
 }
