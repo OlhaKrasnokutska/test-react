@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Navbar from './components/Navbar';
+import Navigation from './components/Navigation';
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Home from './pages';
 import Certificates from './pages/certificates';
@@ -10,7 +10,7 @@ import Footer from './Footer';
 function App() {
 return (
     <Router>
-    <Navbar />
+    <Navigation />
     <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/certificates' element={<Certificates/>} />
