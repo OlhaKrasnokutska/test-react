@@ -3,15 +3,6 @@ body {
     text-align: center;
   }
 
-header {
-  background-color: white;
-  margin-bottom: 20px;
-  /* position: fixed; */
-  /* top: 10px;
-  height: 50px;
-  width: 100%; */
-}
-
 footer {
   background-color: white;
   display: flex;
@@ -31,6 +22,6 @@ button a{
 
 .card {
   display: inline-block;
-  margin: 10px;
+  margin: 15px 10px;
   background-color: white;
 }
