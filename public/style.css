@@ -16,6 +16,14 @@ footer {
   margin-top: 20px;
 }
 
+h1 {
+  color: #C1B59C;
+}
+
+a, h4 {
+  color: gray;
+}
+
 button a{
   color: white;
 }

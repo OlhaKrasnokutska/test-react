@@ -12,14 +12,8 @@ Olha Krasnokutska
 <NavLink to="/certificates" activeStyle>
 Certificates
 </NavLink>
-<NavLink to="/contact" activeStyle>
-Contact Us
-</NavLink>
-<NavLink to="/blogs" activeStyle>
-Blogs
-</NavLink>
-<NavLink to="/sign-up" activeStyle>
-Sign Up
+<NavLink to="/contacts" activeStyle>
+Contact Me
 </NavLink>
 </NavMenu>
 </Nav>
