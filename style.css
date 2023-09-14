@@ -21,11 +21,14 @@ footer {
 header {
   background-color: white;
   padding: 0 10px;
-  height: 50px;
 }
 
-.link{
+.link {
   margin: 0 25px;
+}
+
+.clock{
+margin: 0;
 }
 
 h1 {
