@@ -2,10 +2,12 @@ import React from "react";
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import {Link} from "react-router-dom";
+import Time from "../pages/time";
 
 const Navigation = () => (
   <header>
-    <Navbar expand="sm" className="bg-body-tertiary">
+    <Navbar expand="md">
+        <Navbar.Brand><Time /></Navbar.Brand>
         <Navbar.Brand href ="/" activeStyle>Olha Krasnokutska</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

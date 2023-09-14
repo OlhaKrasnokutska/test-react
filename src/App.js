@@ -16,6 +16,7 @@ return (
         <Route path='/certificates' element={<Certificates/>} />
         <Route path='/contacts' element={<Contacts/>} />
     </Routes>
+    
     <Footer />
     </Router>
 );
