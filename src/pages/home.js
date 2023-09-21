@@ -2,6 +2,7 @@ import React from 'react';
  
 function Home(){
   return (
+    <div><img src="https://wallpapercave.com/wp/wp8971473.jpg" alt="homepage" className='homepage' border="0" /> 
   <div className='about-me'>
   <div>I’m Ukrainian🇺🇦 And I’m proud of it.</div>
   <br />
@@ -18,6 +19,7 @@ function Home(){
   <div>I feel that my personal skills and technical skills that I gained (React.js, Node.js, Express.js, Bootstrap, JQuery, Api’s, Git, GitHub, Flexbox, SEO, and of course, Javascript, CSS, HTML5) would enable me to be an excellent candidate for Frontend developer.</div>
   <br />
   <div>Thank you for your time and consideration. If you’re searching for a good employee - I look forward to hearing from you!!!</div>
+  </div>
   </div>
   );
 }
