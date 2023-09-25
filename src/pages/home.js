@@ -2,7 +2,10 @@ import React from 'react';
  
 function Home(){
   return (
-    <div><img src="https://wallpapercave.com/wp/wp8971473.jpg" alt="homepage" className='homepage' border="0" /> 
+  <div><img src="https://wallpapercave.com/wp/wp8971473.jpg" alt="homepage" className='homepage' border="0" />
+  <h3 className='question'>Who am I?</h3> 
+  <h1 className='name'>OLHA<h2 className='surname'>KRASNOKUTSKA</h2></h1>
+  
   <div className='about-me'>
   <div>I’m Ukrainian🇺🇦 And I’m proud of it.</div>
   <br />
