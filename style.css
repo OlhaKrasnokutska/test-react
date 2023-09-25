@@ -35,7 +35,7 @@ header {
 margin: 0;
 }
 
-h1 {
+h1, h2, h3 {
   color: #C1B59C;
 }
 
@@ -59,8 +59,64 @@ button a{
   margin: 25px auto;
 }
 
+.name {
+  font-size:10vw;
+  text-align: left;
+  color: white;
+  position: absolute;
+  top: 10vh;
+  left: 5vw;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.surname {
+  font-size:4vw;
+  text-align: left;
+  color: white;
+  position: relative;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.question {
+  font-size:5vw;
+  text-align: left;
+  color: white;
+  position: absolute;
+  top: 400px;
+  right: 30px;
+  margin-top: 4vw;
+  font-family: 'Barlow', sans-serif;
+}
+
+.my-photo{
+  border-radius: 50%;
+  border: 15px solid white;
+  width: 70%;
+  margin: 30px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+
+}
+
 @media only screen and (min-width: 1080px){
   .homepage{
     height: 680px;
+  }
+
+  .question {
+    top: 500px;
+  }
+}
+
+@media only screen and (max-width: 680px){
+  .question {
+    top: 230px;
+    right: 15px;
   }
 }
