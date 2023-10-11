@@ -3,7 +3,7 @@ const certificates = [
         {
             image: "https://udemy-certificate.s3.amazonaws.com/image/UC-a3d81799-74f3-40bc-9410-3cc985144704.jpg?v=1694286484000",
             alt: "Udemy Certificate",
-            link: "https://ibmcsr.udemy.com/certificate/UC-a3d81799-74f3-40bc-9410-3cc985144704/",
+            link: "https://www.udemy.com/certificate/UC-a3d81799-74f3-40bc-9410-3cc985144704/",
             },
             {
                 image: "https://i.ibb.co/qM5XG0n/Interpersonal-skills.png",
