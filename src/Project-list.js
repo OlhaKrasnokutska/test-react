@@ -8,7 +8,7 @@ const projects = [
     },
     {id: "2",
     name: "About me page",
-    image: "https://i.ibb.co/XpwFvDw/About-me.jpg",
+    image: "https://i.ibb.co/16Z9dJV/About-me.jpg",
     link: "https://olhakrasnokutska.github.io/About-me/",
     },
     {id: "3",
