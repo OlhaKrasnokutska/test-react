@@ -19,7 +19,7 @@ const projects = [
     {id: "4",
     name: "React Dictionary App",
     image: "https://i.ibb.co/PjKNy01/SC-React-Dictionary.jpg",
-    link: "https://google.com",
+    link: "https://serene-trifle-1e6c21.netlify.app/",
     },
     {id: "5",
     name: "Responsive Page",
