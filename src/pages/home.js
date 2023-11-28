@@ -9,7 +9,7 @@ function Home(){
   <div className='about-me'>
   <div>I’m Ukrainian🇺🇦 And I’m proud of it.</div>
   <br />
-  <div>But with hard times come hard decisions. Our decision was to protect our children and find the safety place for them.<br />We have found such in Sweden. And now it’s time for me to find the job. </div>
+  <div>But with hard times come hard decisions. The decision of our family was to protect our children and find the safety place for them.<br />We have found such in Sweden. And now it’s time for me to find the job. </div>
   <br />
   <div>I had rather big career break because of parental leave. Before it I worked as Senior Cashier at the bank.<br />I’m thankful for this experience. I got very useful for any job personal skills there. I gained strong communication skills when dealing with clients, team members and supervisors.<br />Some conflict situations taught me stress resistance and the ability to think creatively, react quickly and set priorities in processes. But I’d like to make a career change.</div>
   <br />
