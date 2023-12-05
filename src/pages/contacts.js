@@ -16,7 +16,7 @@ const Contacts = () => {
     </div>
     </div>
     <div class="column">
-    <img src="https://i.ibb.co/Hh9yH5j/my-photo.jpg" alt="my-face" className="my-photo" border="0" width="30%" />
+    <img src="https://i.ibb.co/SnSKFmY/photo-of-me.jpg" alt="my-face" className="my-photo" border="0" width="30%" />
     </div>
   </div>
   );
